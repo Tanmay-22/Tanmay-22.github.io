@@ -1,0 +1,17 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+body{
+    align-content: center;
+}
+.plain_test{
+    
+}
+h2{
+    color: hsl(14, 45%, 36%);
+}
+h3{
+    color: hsl(332, 51%, 32%);
+}
+.purple_table{
+    background-color: hsl(330, 100%, 98%);
+}
