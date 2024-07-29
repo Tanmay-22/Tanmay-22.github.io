@@ -1,11 +1,40 @@
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 16px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 body{
     align-content: center;
+
+    background-color:hsl(30, 54%, 90%);
+
+
 }
-.plain_test{
-    
+.pallet{
+    width: 50%;
+    border-radius: 25px;
+    margin: 20 0 0 450px;
+    margin: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 2.5%;
+    background: hsl(0, 0%, 100%);
+
 }
+
+#omelette{
+    border-radius: 25px;
+    width: 97.5%;
+}
+
+
+.inst{
+    font-weight: bold;
+    display: inline-block;
+
+}
+
+li{
+    padding: 0px;
+}
+
 h2{
     color: hsl(14, 45%, 36%);
 }
@@ -13,5 +42,27 @@ h3{
     color: hsl(332, 51%, 32%);
 }
 .purple_table{
-    background-color: hsl(330, 100%, 98%);
+    background-color: hsl(330, 100%, 98%)
 }
+
+/* #ingr_list{
+    padding-left: 10px;
+} */
+
+ol{
+    color: hsl(24, 5%, 18%);
+    padding-left: 15px;
+}
+
+/* 
+- Nutmeg: hsl(14, 45%, 36%)
+- Dark Raspberry: hsl(332, 51%, 32%)
+
+### Neutral
+
+- White: hsl(0, 0%, 100%)
+- Rose White: hsl(330, 100%, 98%)
+- Eggshell: hsl(30, 54%, 90%)
+- Light Grey: hsl(30, 18%, 87%)
+- Wenge Brown: hsl(30, 10%, 34%)
+- Dark Charcoal: hsl(24, 5%, 18%) */
